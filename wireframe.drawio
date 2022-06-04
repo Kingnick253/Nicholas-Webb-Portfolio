@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hQACKPNQrgku5QdKCAGj" name="Page-1">
-        <mxGraphModel dx="1968" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1968" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -22,8 +22,25 @@
                 <mxCell id="7" value="&lt;h1&gt;Work&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#ffffff;align=left;" vertex="1" parent="1">
                     <mxGeometry x="1020" width="60" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=48;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                <mxCell id="8" value="Picture to add flavor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=48;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
                     <mxGeometry x="-10" y="80" width="1100" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="About me " style="swimlane;fontFamily=Times New Roman;fontSize=12;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="440" width="200" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="info about me starting from the top of the this container to the bottom adjust depending on info" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="460" width="200" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Completed work" style="swimlane;horizontal=0;fontFamily=Times New Roman;fontSize=12;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="400" width="640" height="450" as="geometry">
+                        <mxRectangle x="440" y="400" width="30" height="130" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Challenege one&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="400" width="310" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;strokeColor=default;fillColor=#647687;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="610" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
