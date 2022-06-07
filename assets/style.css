@@ -1,16 +1,22 @@
 /* sets the header to my desired color */
-.header{
-    width: 100%;
-    padding: 20px;
-    background-color: 647687;
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: #13293d;
+    color: white;
+    
 }
 
 
 
 /* sets the list on the side for the nav bar */
-ul{
+nav ul{
     text-align: right;
-    color:white;
+    color: white;
+    margin: 0;
+    padding: 0;
 }
 li{
     
