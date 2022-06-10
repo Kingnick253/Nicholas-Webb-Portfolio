@@ -41,14 +41,21 @@ nav a{
     color: white;
     
 }
-div{
+/* div{
     box-sizing: content-box;
     width: 100%;
     border: 15px solid green;
     margin: 20px;
+} */
+.About-Me p{
+    box-sizing: content-box;
+    width: 100%;
+    border: 10px solid green;
+    margin: 10px;
 }
-.About-Me{
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
+.Contact-Info p{
+    box-sizing: content-box;
+    width: 100%;
+    border: 10px solid green;
+    margin: 10px;
 }
