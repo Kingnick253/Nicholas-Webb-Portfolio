@@ -1,9 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 /* sets the header to my desired color */
 header{
     display: flex;
+    font-family:'Times New Roman', Times, serif;
     justify-content: space-between;
     align-items: center;
     padding: 1%;
+    margin: 1;
     background-color: #13293d;
     color: white;
     
@@ -15,19 +22,33 @@ header{
 nav ul{
     text-align: right;
     color: white;
+    justify-content: space-around;
     margin: 0;
-    padding: 0;
+    padding: 15px;
 }
+/* puts the about me, work, contact info in the top right part of the nav bar */
 nav li{
     
     display: flex;
     justify-content: flex-end;
-    justify-content: space-around;
+    justify-content: space-between;
     display: inline;
 }
+/* Changes the links from blue underlined to Bold white text */
 nav a{
     font-weight: bold;
     text-decoration: none;
     color: white;
     
+}
+div{
+    box-sizing: content-box;
+    width: 100%;
+    border: 15px solid green;
+    margin: 20px;
+}
+.About-Me{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
 }
