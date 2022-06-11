@@ -48,14 +48,15 @@ nav a{
     margin: 20px;
 } */
 .About-Me p{
-    box-sizing: content-box;
-    width: 100%;
+    /* box-sizing: content-box; */
+    /* width: 100%; */
     border: 10px solid green;
     margin: 10px;
+  
 }
 .Contact-Info p{
-    box-sizing: content-box;
-    width: 100%;
+    
+    /* width: 100%; */
     border: 10px solid green;
     margin: 10px;
 }
