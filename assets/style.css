@@ -3,6 +3,10 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background-color: burlywood;
+}
+
 /* sets the header to my desired color */
 header{
     display: flex;
@@ -16,10 +20,11 @@ header{
     
 }
 
-#img{
+/* #img{
+    /* margin: ;
     width: 20px;
     height: 20px;
-}
+} */ 
 
 
 
@@ -35,16 +40,21 @@ nav ul{
 nav li{
     
     display: flex;
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
     justify-content: space-between;
     display: inline;
 }
 /* Changes the links from blue underlined to Bold white text */
 nav a{
+    padding: 20px;
     font-weight: bold;
     text-decoration: none;
     color: white;
     
+}
+/* makes the buttons on the nav bar highlight when hovering over them. */
+a:hover{
+    color: darkcyan;
 }
 /* div{
     box-sizing: content-box;
@@ -52,14 +62,14 @@ nav a{
     border: 15px solid green;
     margin: 20px;
 } */
-.About-Me p{
+#About-Me p{
     /* box-sizing: content-box; */
     /* width: 100%; */
     border: 10px solid green;
     margin: 10px;
   
 }
-.Contact-Info p{
+#Contact-Info p{
     
     /* width: 100%; */
     border: 10px solid green;
